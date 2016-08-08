@@ -1,4 +1,4 @@
-# Puppet Master & Agent deployement using Vagrant.
+# Puppet Master & Agent deployment using Vagrant.
 
 ### Files Overview
 
