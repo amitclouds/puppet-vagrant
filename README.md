@@ -4,7 +4,7 @@
 
 
 1. Vagrantfile -  primary configuration
- * create two VirtualBox  Master & Agent on ubuntu 14.04 base box.
+ * create two Vagrant box,  puppet-3.4.3 Master & Agent  on ubuntu 14.04 base box.
  * configure Ip address.
  * configure hostname.
  * provisioning shell scrip for bootstraping.
